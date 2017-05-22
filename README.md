@@ -1,6 +1,6 @@
 # artemis
 
-Aura background for starting game title
+Aura background for starting game title.
 
 ## How it looks
 ![alt tag](https://cloud.githubusercontent.com/)
