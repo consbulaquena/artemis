@@ -18,7 +18,7 @@ class GameScene: SKScene {
         myLabel.verticalAlignmentMode = .center
         myLabel.horizontalAlignmentMode = .center
         
-        myLabel.text = "ARTEM"
+        myLabel.text = "ARTEMIS"
         myLabel.fontColor = SKColor.white
         myLabel.fontSize = 64
         
