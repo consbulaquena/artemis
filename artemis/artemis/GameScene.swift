@@ -20,7 +20,7 @@ class GameScene: SKScene {
         
         myLabel.text = "ARTEMIS"
         myLabel.fontColor = SKColor.white
-        myLabel.fontSize = 70
+        myLabel.fontSize = 65
         
         addChild(myLabel)
         
