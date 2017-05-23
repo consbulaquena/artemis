@@ -33,7 +33,3 @@ class GameScene: SKScene {
     }
     
 }
-
-
-
-jjkjkjkj
