@@ -33,14 +33,3 @@ class GameScene: SKScene {
     }
     
 }
-
-
-        addChild(myLabel)
-        
-        //Add Emitter
-        let emitter = SKEmitterNode(fileNamed: "MyParticle")
-        emitter?.position = CGPoint(x: self.size.width/2, y: self.size.height/2)
-        emitter?.zPosition = -5
-        addChild(emitter!)
-        
-    }
