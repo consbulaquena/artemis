@@ -1,4 +1,4 @@
-# artemis
+# artemis [![Swift](https://img.shields.io/badge/Swift-3.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 An adventure game.
 
 
